@@ -32,3 +32,44 @@ Neste arquivo, são armazenadas palavras ou expressões estudadas na disciplina,
   - <b>SISTEMAS DE INFORMAÇÃO</b>: São conjuntos de pessoas, processos e tecnologias que coletam, processam e armazenam dados para gerar informações úteis. Servem para apoiar decisões, organização e gestão dentro de empresas ou instituições.
 
   - <b>SISTEMA</b>: conjunto de elementos que interagem entre si em prol de solucionar e fazer funcionar um esquema.
+
+  - ## Tipos de Sistemas de Informação
+
+  - <b>SISTEMA DE PROCESSAMENTO DE TRANSAÇÕES (SPT ou TPS)</b>: 
+  São sistemas responsáveis por registrar e processar operações do dia a dia de uma organização, como vendas, pagamentos e cadastros. São a base de outros sistemas.
+  Exemplo: sistema de caixa de supermercado, sistema bancário.
+  
+  - <b>SISTEMA DE INFORMAÇÃO GERENCIAL (SIG ou MIS)</b>: 
+  Fornece relatórios e informações organizadas para auxiliar gestores na tomada de decisões do dia a dia.
+  Exemplo: relatórios de vendas mensais de uma empresa.
+  
+  - <b>SISTEMA DE APOIO À DECISÃO (SAD ou DSS)</b>: 
+  Auxilia na tomada de decisões mais complexas, utilizando dados, simulações e análises.
+  Exemplo: sistemas que ajudam empresas a decidir investimentos.
+  
+  - <b>SISTEMA DE INFORMAÇÃO EXECUTIVA (SIE ou EIS)</b>: 
+  Voltado para altos executivos, apresenta informações estratégicas de forma simples e visual (gráficos, dashboards).
+  Exemplo: painéis com indicadores de desempenho da empresa.
+  
+  - <b>SISTEMAS COLABORATIVOS (Groupware)</b>: 
+  Permitem que várias pessoas trabalhem juntas, compartilhando informações e tarefas.
+  Exemplo: Google Docs, Microsoft Teams.
+  
+  - <b>SISTEMAS DE AUTOMAÇÃO DE ESCRITÓRIO (SAE ou OAS)</b>: 
+  Ajudam nas tarefas administrativas do dia a dia, como edição de textos, planilhas e comunicação.
+  Exemplo: Word, Excel.
+  
+  - <b>SISTEMA ERP (ENTERPRISE RESOURCE PLANNING)</b>: 
+  Integra todos os setores de uma empresa (financeiro, estoque, RH) em um único sistema.
+  Exemplo: SAP.
+  
+  - <b>SISTEMA CRM (CUSTOMER RELATIONSHIP MANAGEMENT)</b>: 
+  Focado no relacionamento com clientes, armazenando dados e interações.
+  Exemplo: Salesforce.
+
+## Classificação de Sistemas
+
+- <b>gov.br</b>: Sistema de Informação Governamental + Sistema Integrado (com características de SIE e SIG)
+- <b>Netflix</b>: Sistema de Informação Estratégico + Sistema de Apoio à Decisão (usa IA e análise de dados)
+- <b>Minha Agenda UFN</b>: Sistema de Processamento de Transações (SPT) + Sistema de Informação Gerencial (SIG)
+- <b>Sistema de Imposto de Renda</b>: Sistema de Processamento de Transações (SPT)
