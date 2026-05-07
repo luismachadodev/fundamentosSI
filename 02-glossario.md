@@ -4,6 +4,30 @@
 Neste arquivo, são armazenadas palavras ou expressões estudadas na disciplina, com uma breve descrição delas
 
 ## Palavras ou expressões
+
+  - <b>TÉCNICA</b>: 
+  É a forma prática de executar uma atividade específica, utilizando procedimentos ou habilidades para atingir um objetivo.
+  Exemplo: utilizar commits semânticos no Git para organizar versões do código.
+
+  - <b>METODOLOGIA</b>: 
+  É um conjunto organizado de métodos, processos e práticas utilizado para planejar e conduzir um trabalho ou projeto.
+  Exemplo: metodologia Kanban para gerenciamento de tarefas.
+
+  - <b>GIT</b>: 
+  Sistema de versionamento de código distribuído que permite controlar alterações em arquivos, manter histórico de versões e facilitar o trabalho em equipe.
+
+  - <b>GITHUB</b>: 
+  Plataforma online baseada no Git que permite armazenar repositórios, compartilhar código, controlar versões e colaborar em projetos de software.
+
+  - <b>KANBAN</b>: 
+  Metodologia visual de gerenciamento de tarefas criada pela Toyota, baseada na organização de atividades em colunas como “A Fazer”, “Fazendo” e “Concluído”.
+
+  - <b>TRELLO</b>: 
+  Ferramenta online de gerenciamento de tarefas baseada no método Kanban, utilizada para organizar projetos, equipes e atividades através de quadros, listas e cartões.
+
+  - <b>INTEGRAÇÃO ENTRE TRELLO E GITHUB</b>: 
+  O Trello pode ser integrado ao GitHub por meio de Power-Ups e automações. Essa integração permite vincular commits, pull requests e issues do GitHub aos cartões do Trello, facilitando o acompanhamento do desenvolvimento do projeto pela equipe.
+
   - <b>ARQUITETURA DE COMPUTADORES</b>: Em termos simples, é o projeto conceitual e a estrutura operacional que define como os componentes de hardware (processador, memória, entrada/saída) se interconectam e funcionam para executar instruções.
 
   - <b>CRUD</b>: Basicamente é criar, ler/recuperar, atualizar e deletar.
