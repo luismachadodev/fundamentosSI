@@ -1,6 +1,71 @@
 # Notas de aula da disciplina
 Neste arquivo, há apontamentos e anotações de pontos discutidos em sala.
 
+## Aula 10
+  - Boas práticas de desenvolvimento de software em GRUPO ou EQUIPE
+    - Sistema de Versionamento de Código: git + Github
+      - controla versões
+      - controla backups
+      - controla equipes no desenvolvimento coletivo
+      - ...
+    - Sistema Kanban: METODOLOGIA DE GERENCIAMENTO DE TAREFAS/ATIVIDADES: TRELLO
+      - foi criado pela Toyota: com postit
+        - coluna1 (a fazer ou TO DO)
+        - coluna2 (fazendo ou DOING)
+        - coluna3 (feito ou DONE)
+  - ATIVIDADE:
+    - pesquisar e colocar no glossário pessoal:
+      - os conceitos de técnica versus metodologia
+      - pesquisar como integrar (se existe) trello com github    
+
+## Aula 9
+  - Internet das Coisas: todo lugar, todo momento e conectada
+    - Sistemas Pervasivos versus Sistemas Ubíquos
+      - Destaque: automação residencial, comercial e industrial 
+
+## Aula 5
+  - Tarefa avaliativa
+    - Assunto: Tipos de Sistemas de Informação
+    - Pesquisar, escrever e dar exemplos dos diferentes tipos de Sistemas de Informação
+      - O resultado da pesquisa deve ser colocado no arquivo glossario.md do repositório de cada aluno  
+      - Enviar para alexz@ufn.edu.br o link do repositório contendo o glossario.md
+        - O assunto da mensagem é: "Trabalho Fundamentos SI"
+    - Data: 19/03/2026
+    - Hora: 20:00
+    - Algumas curiosidades: os sistemas abaixo são de que tipo de SI?
+      - gov.br 
+      - Netflix
+      - Minha Agenda UFN 
+      - Sistema de Imposto de Renda do Governo Brasileiro
+
+## Aula 4
+  - Discussão da tarefa sobre modelos arquiteturais
+  - Computação ou processamento
+    - desktop
+    - web -> Cloud Computing - Computação em Nuvem
+      - Apps (software instalado em equipamento)
+      - Navegador
+      - IoT - Internet of Things
+      - VANTAGENS
+        - flexibilidade
+        - autonomia
+        - agilidade
+        - integração de tecnologias
+      - DESVANTAGENS
+        - segurança
+        - dependência de Internet
+      - ARQUITETURA
+          - Cliente-servidor
+          - Ponto-a-Ponto
+      - Modelos arquiteturais de serviços
+          - SaaS
+          - DBaaS
+          - CaaS
+          - PaaS
+          - DaaS
+          - FaaS
+          - IaaS
+
 ## Aula 3
   - Apresentação da Oficina de Git - https://github.com/alexandrezamberlan/oficinaGit
   - Apresentação, discussão e 1o trabalho avaliado
