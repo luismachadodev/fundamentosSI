@@ -1,6 +1,16 @@
 # Notas de aula da disciplina
 Neste arquivo, há apontamentos e anotações de pontos discutidos em sala.
 
+## Aula 13
+  - Customer Relationship Management - CRM
+    - o que é; papel; exemplos
+
+## Aula 12
+  - Correção e discussão da avaliação teórica
+
+## Aula 11
+  - Avaliação teórica
+
 ## Aula 10
   - Boas práticas de desenvolvimento de software em GRUPO ou EQUIPE
     - Sistema de Versionamento de Código: git + Github
