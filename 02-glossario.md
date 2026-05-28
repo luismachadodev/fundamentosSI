@@ -91,9 +91,17 @@ Neste arquivo, são armazenadas palavras ou expressões estudadas na disciplina,
   Focado no relacionamento com clientes, armazenando dados e interações.
   Exemplo: Salesforce.
 
+  - <b>CUSTOMER RELATIONSHIP MANAGEMENT (CRM)</b>:
+    É um sistema voltado para o gerenciamento do relacionamento com clientes. Seu objetivo é organizar informações,           histórico de interações, vendas e atendimentos, ajudando empresas a melhorar a comunicação, fidelizar clientes e           aumentar resultados comerciais.
+
+    O CRM possui papel importante no acompanhamento de oportunidades de negócio, suporte ao cliente e estratégias de           marketing, permitindo centralizar os dados dos consumidores em um único sistema.
+
+    Exemplo de mercado: Salesforce, HubSpot CRM e Pipedrive.
+
 ## Classificação de Sistemas
 
 - <b>gov.br</b>: Sistema de Informação Governamental + Sistema Integrado (com características de SIE e SIG)
 - <b>Netflix</b>: Sistema de Informação Estratégico + Sistema de Apoio à Decisão (usa IA e análise de dados)
 - <b>Minha Agenda UFN</b>: Sistema de Processamento de Transações (SPT) + Sistema de Informação Gerencial (SIG)
 - <b>Sistema de Imposto de Renda</b>: Sistema de Processamento de Transações (SPT)
+
