@@ -57,6 +57,25 @@ Neste arquivo, são armazenadas palavras ou expressões estudadas na disciplina,
 
   - <b>SISTEMA</b>: conjunto de elementos que interagem entre si em prol de solucionar e fazer funcionar um esquema.
 
+  - <b>DOCKER</b>:
+      Plataforma de virtualização baseada em contêineres que permite criar, empacotar, distribuir e executar aplicações de forma isolada e padronizada em diferentes ambientes. O Docker facilita o desenvolvimento e a             implantação de sistemas, garantindo que a aplicação funcione da mesma maneira em qualquer máquina.
+      Exemplo de uso: executar uma aplicação web com banco de dados em contêineres separados.
+      
+  - <b>CONTÊINER (CONTAINER)</b>:
+      Ambiente isolado e leve utilizado para executar aplicações com todas as suas dependências, bibliotecas e configurações necessárias. Diferente de máquinas virtuais, os contêineres compartilham o mesmo sistema               operacional, tornando a execução mais rápida e eficiente.
+      
+  - <b>DOCKERFILE</b>:
+      Arquivo de configuração utilizado para definir passo a passo como uma imagem Docker deve ser criada. Nele são especificadas instruções como sistema base, instalação de dependências e comandos de execução.
+      
+  - <b>IMAGEM DOCKER (DOCKER IMAGE)</b>:
+      Modelo pronto e imutável utilizado para criar contêineres. Uma imagem contém tudo o que a aplicação precisa para funcionar, como código, bibliotecas e configurações.
+      
+  - <b>DOCKER HUB</b>:
+      Plataforma online utilizada para armazenar, compartilhar e baixar imagens Docker públicas ou privadas. Funciona como um repositório de imagens Docker.
+      
+  - <b>DOCKER COMPOSE</b>:
+      Ferramenta que permite definir e gerenciar múltiplos contêineres Docker utilizando um único arquivo de configuração (docker-compose.yml). Facilita a execução de aplicações compostas por vários serviços, como API,          banco de dados e frontend.
+
   - ## Tipos de Sistemas de Informação
 
   - <b>SISTEMA DE PROCESSAMENTO DE TRANSAÇÕES (SPT ou TPS)</b>: 
