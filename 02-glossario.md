@@ -111,11 +111,23 @@ Neste arquivo, são armazenadas palavras ou expressões estudadas na disciplina,
   Exemplo: Salesforce.
 
   - <b>CUSTOMER RELATIONSHIP MANAGEMENT (CRM)</b>:
-    É um sistema voltado para o gerenciamento do relacionamento com clientes. Seu objetivo é organizar informações,           histórico de interações, vendas e atendimentos, ajudando empresas a melhorar a comunicação, fidelizar clientes e           aumentar resultados comerciais.
+    É um sistema voltado para o gerenciamento do relacionamento com clientes. Seu objetivo é organizar informações, histórico de interações, vendas e atendimentos, ajudando empresas a melhorar a comunicação, fidelizar         clientes e aumentar resultados comerciais.
 
-    O CRM possui papel importante no acompanhamento de oportunidades de negócio, suporte ao cliente e estratégias de           marketing, permitindo centralizar os dados dos consumidores em um único sistema.
+    O CRM possui papel importante no acompanhamento de oportunidades de negócio, suporte ao cliente e estratégias de marketing, permitindo centralizar os dados dos consumidores em um único sistema.
 
     Exemplo de mercado: Salesforce, HubSpot CRM e Pipedrive.
+
+   - <b>GOVERNANÇA DE TI (COBIT/ITIL)</b>:
+      É um conjunto de práticas, processos e políticas que garantem o alinhamento da Tecnologia da Informação aos objetivos da organização, promovendo o controle a segurança e eficiência. O COBIT é voltado para governança       e controle, enquanto o ITIL foca na gestão de serviços de TI.
+
+   -  <b>PRINCÍPIOS DA LGPD PARA DESENVOLVEDORES</b>:
+      Diretrizes que orientam o tratamento de dados pessoais em sistemas, como finalidade, necessidade, transparência, segurança, prevenção e responsabilização, garantindo a proteção da privacidade dos usuários.
+      
+   - <b>PRIVACY BY DESIGN</b>:
+      Abordagem de desenvolvimento que incorpora a privacidade e a proteção de dados desde a concepção do sistema, e não apenas após sua implementação.
+     
+   - <b>DADOS SENSÍVEIS</b>:
+      Informações pessoais que podem gerar discriminação ou impactar a privacidade do indivíduo, como dados de saúde, biometria, origem racial, religião, opinião política e orientação sexual. Esses dados recebem proteção        especial pela LGPD.
 
 ## Classificação de Sistemas
 
